@@ -310,7 +310,6 @@ export const NAVIGATION_ITEMS = [
   { name: "Home", href: "/" },
   { name: "My Diary", href: "/diary" },
   { name: "Gallery", href: "/gallery" },
-  { name: "Emotion Test", href: "/emotion-test" },
   { name: "About", href: "/about" },
 ];
 
